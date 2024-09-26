@@ -1,1 +1,2 @@
 # Developed-Sales-Dashboard-for-Blinkit-
+Developed a dynamic, interactive sales dashboard in Power BI to comprehensively analyze and visualize Blinkit's sales data across various products and outlets. The dashboard offers deep insights into outlet performance, categorizing sales trends by product type and outlet locations (Tier 1, 2, and 3 cities). It identifies top-performing outlets, highlights profitability, and tracks regional sales distribution, enabling data-driven decisions to optimize sales strategy and improve overall business performance.
